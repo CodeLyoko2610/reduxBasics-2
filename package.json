@@ -1,0 +1,22 @@
+{
+  "name": "reduxbasics-2",
+  "version": "1.0.0",
+  "description": "review of reduxBasics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeLyoko2610/reduxBasics-2.git"
+  },
+  "author": "Dang Chuong Pham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeLyoko2610/reduxBasics-2/issues"
+  },
+  "homepage": "https://github.com/CodeLyoko2610/reduxBasics-2#readme",
+  "dependencies": {
+    "expect": "^25.1.0"
+  }
+}
